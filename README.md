@@ -90,7 +90,7 @@ An implementation of a Genetic Algorithm applied to the 3-SAT problem, exploring
 
 - 💻 **GitHub:** [NatanGLyra](https://github.com/NatanGLyra)
 - 💼 **LinkedIn:** [Natan G. de Lyra](https://www.linkedin.com/in/natan-g-de-lyra-78b810342/)
-- 📚 **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/9081222817965695)
+- 📚 **Lattes:** [Natan Goncalves de Lyra](https://lattes.cnpq.br/9081222817965695)
 
 ---
 
